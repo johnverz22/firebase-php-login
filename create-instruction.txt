@@ -1,0 +1,5 @@
+SET UP NEW PHP PROJECT
+install gRPC
+1. run composer init
+2. run composer install
+3 run composer require google/cloud-firestore
